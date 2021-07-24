@@ -1,0 +1,11 @@
+{
+  "name": "cssnano-test",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@csstools/postcss-sass": "^4.0.0",
+    "cssnano": "^5.0.7",
+    "postcss": "^8.3.6"
+  }
+}
